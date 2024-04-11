@@ -1,4 +1,4 @@
-# Power-BI-Projects
+# Power-BI-Exploratory Data Analysis(EDA)-Projects
 This repository contains files/codes for my Data Visualization projects and reports created using Power BI.
 
 # Files
